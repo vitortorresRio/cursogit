@@ -1,0 +1,1 @@
+Instalação , criação do repositorio e testes de comandos em prints de tela
